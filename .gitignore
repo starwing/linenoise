@@ -1,3 +1,6 @@
 linenoise_example
 *.exe
 *.dll
+*.so
+/linenoise_cpp_example
+/linenoise_utf8_example
